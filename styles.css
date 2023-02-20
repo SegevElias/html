@@ -1,0 +1,41 @@
+ img {
+	 width:250px ; 
+	 border: 3px solid blue; 
+	  
+  float:right;
+ 
+ 
+}
+
+div {
+	font-size:19px;
+	
+}
+
+ 
+ 
+ .sizes {
+	 font-size:20px;	 
+ }
+ 
+ .messi {
+	 font-size:50px;
+ }
+ 
+ .123 {
+	 font-size:200px;
+ }
+ 
+ body {
+	 background-color: skyblue; 
+	 font-family: Berlin Sans FB
+	
+	
+
+
+}
+	
+ 
+ h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+ h2 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+ 
